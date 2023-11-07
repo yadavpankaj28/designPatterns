@@ -19,10 +19,10 @@ public class AnalyticsSender implements OrderPlacedSubscriber, OrderCancelledSub
     }
 }
 
-UIEventManager
-
-SubscriberManager {
-    triggerUnreisterEvnt() {
-
-    }
-}
+//UIEventManager
+//
+//SubscriberManager {
+//    triggerUnreisterEvnt() {
+//
+//    }
+//}
